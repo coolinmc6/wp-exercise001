@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{7:function(n,o,c){"use strict";function i(){console.log("Hey from chat")}c.r(o),c.d(o,"init",(function(){return i}))}}]);
